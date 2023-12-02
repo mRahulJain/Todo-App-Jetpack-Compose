@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/todo"
+        android:bottom="@dimen/splash_icon_size"
+        android:left="@dimen/splash_icon_size"
+        android:right="@dimen/splash_icon_size"
+        android:top="@dimen/splash_icon_size" />
+</layer-list>

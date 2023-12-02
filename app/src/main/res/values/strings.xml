@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Todo</string>
+
+    <string name="add_button">Add Button</string>
+    <string name="top_app_bar_tasks">Tasks</string>
+    <string name="search_button">Search Button</string>
+    <string name="sort_button">Sort Button</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="list_empty_content">No todo found!</string>
+    <string name="list_empty_icon">Empty Sad Icon</string>
+    <string name="new_task">New Task</string>
+    <string name="arrow_back">Back Button</string>
+    <string name="task_save">Task Save Button</string>
+    <string name="close_task">Close Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="priority_icon_drop_down">Priority Icon Drop Down</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_task_title">Remove %1$s?</string>
+    <string name="delete_task_message">Are you sure you want to remove %1$s?</string>
+    <string name="delete_all_task_title">Remove all tasks?</string>
+    <string name="delete_all_task_message">Are you sure you want to remove all tasks?</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
